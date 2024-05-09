@@ -1,4 +1,4 @@
 pandas[excel]==2.2.2
 matplotlib==3.8.4
 jupyterlab==4.1.6
-
+scikit-learn==1.4.2
